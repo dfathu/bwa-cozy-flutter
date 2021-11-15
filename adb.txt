@@ -1,0 +1,7 @@
+buka cmd administrator 
+D:
+cd emulator\memu\Microvirt\MEmu\
+adb connect 127.0.0.1:21503
+
+lanjut di terminal vscode ketik :
+flutter doctor
